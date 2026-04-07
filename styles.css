@@ -5,13 +5,20 @@ body {
     background-color: #f5f5f5;
     color: #222;
 }
-
-header {
+ header {
+     background: #6195af;
+     color: #000000;
+       font-size: 3rem;
+     align-content: center;
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+/*header {
     background: #111;
     color: #fff;
     padding: 1rem 1.5rem;
 }
-
+*/
 /*main {
     padding: 1.5rem;
     max-width: 900px;
